@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/usr/share/alsa/cards/aliases.conf:system/usr/share/alsa/cards/aliases.conf \
     vendor/motorola/olympus/proprietary/bin/ap_gain_mmul.bin:system/bin/ap_gain_mmul.bin \
     vendor/motorola/olympus/proprietary/bin/ap_gain.bin:system/bin/ap_gain.bin \
+    vendor/motorola/olympus/proprietary/bin/nvcpud:system/bin/nvcpud \
     vendor/motorola/olympus/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
     vendor/motorola/olympus/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
     vendor/motorola/olympus/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
@@ -107,4 +108,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/etc/am2server.pubkey:system/etc/am2server.pubkey \
     vendor/motorola/olympus/proprietary/lib/libAuthUDMDrv_1750A100.so:system/lib/libAuthUDMDrv_1750A100.so \
     vendor/motorola/olympus/proprietary/lib/libam2app.so:system/lib/libam2app.so \
-    vendor/motorola/olympus/proprietary/lib/libam2server.so:system/lib/libam2server.so
+    vendor/motorola/olympus/proprietary/lib/libam2server.so:system/lib/libam2server.so \
+    vendor/motorola/olympus/proprietary/lib/libnvcpud.so:system/lib/libnvcpud.so \
+    vendor/motorola/olympus/proprietary/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so
