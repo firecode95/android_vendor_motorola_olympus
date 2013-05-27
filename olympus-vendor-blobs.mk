@@ -110,4 +110,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/lib/libam2app.so:system/lib/libam2app.so \
     vendor/motorola/olympus/proprietary/lib/libam2server.so:system/lib/libam2server.so \
     vendor/motorola/olympus/proprietary/lib/libnvcpud.so:system/lib/libnvcpud.so \
-    vendor/motorola/olympus/proprietary/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so
+    vendor/motorola/olympus/proprietary/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so \
+    vendor/motorola/olympus/proprietary/bin/glgps_nvidiaTegra2android:system/bin/glgps_nvidiaTegra2android \
+    vendor/motorola/olympus/proprietary/etc/gps/gpsconfig.xml:system/etc/gps/gpsconfig.xml
