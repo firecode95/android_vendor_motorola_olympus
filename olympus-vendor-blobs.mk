@@ -91,6 +91,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/lib/libbattd.so:system/lib/libbattd.so \
     vendor/motorola/olympus/proprietary/bin/charge_only_mode:system/bin/charge_only_mode \
     vendor/motorola/olympus/proprietary/lib/libmoto_ril.so:system/lib/libmoto_ril.so \
+    vendor/motorola/olympus/proprietary/lib/libmoto_mdmctrl.so:system/lib/libmoto_mdmctrl.so \
     vendor/motorola/olympus/proprietary/lib/libpppd_plugin-ril.so:system/lib/libpppd_plugin-ril.so \
     vendor/motorola/olympus/proprietary/lib/librds_util.so:system/lib/librds_util.so \
     vendor/motorola/olympus/proprietary/lib/libril_rds.so:system/lib/libril_rds.so \
