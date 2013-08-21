@@ -146,4 +146,5 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/lib/libvoRealFR.so:system/proprietary/lib/libvoRealFR.so \
     vendor/motorola/olympus/proprietary/lib/libvoRealVideoDec.so:system/proprietary/lib/libvoRealVideoDec.so \
     vendor/motorola/olympus/proprietary/lib/libvoVidDec.so:system/proprietary/lib/libvoVidDec.so \
-    vendor/motorola/olympus/proprietary/lib/libvorbisidec.so:system/proprietary/lib/libvorbisidec.so
+    vendor/motorola/olympus/proprietary/lib/libvorbisidec.so:system/proprietary/lib/libvorbisidec.so \
+    vendor/motorola/olympus/proprietary/framework/am2app.jar:system/framework/am2app.jar
