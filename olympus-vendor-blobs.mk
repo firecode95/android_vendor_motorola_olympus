@@ -111,11 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/olympus/proprietary/lib/libam2server.so:system/lib/libam2server.so \
     vendor/motorola/olympus/proprietary/lib/libnvcpud.so:system/lib/libnvcpud.so \
     vendor/motorola/olympus/proprietary/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so \
-    vendor/motorola/olympus/proprietary/bin/tegrastats:system/proprietary/bin/tegrastats \
-    vendor/motorola/olympus/proprietary/lib/hw/audio.a2dp.default.so:system/proprietary/lib/hw/audio.a2dp.default.so \
-    vendor/motorola/olympus/proprietary/lib/hw/gralloc.default.so:system/proprietary/lib/hw/gralloc.default.so \
-    vendor/motorola/olympus/proprietary/lib/hw/lights.tegra.so:system/proprietary/lib/hw/lights.tegra.so \
-    vendor/motorola/olympus/proprietary/lib/hw/nfc.tegra.so:system/proprietary/lib/hw/nfc.tegra.so \
     vendor/motorola/olympus/proprietary/lib/libnvasfparserhal.so:system/proprietary/lib/libnvasfparserhal.so \
     vendor/motorola/olympus/proprietary/lib/libnvaviparserhal.so:system/proprietary/lib/libnvaviparserhal.so \
     vendor/motorola/olympus/proprietary/lib/libnvcap.so:system/proprietary/lib/libnvcap.so \
